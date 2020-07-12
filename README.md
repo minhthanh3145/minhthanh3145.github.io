@@ -1,19 +1,5 @@
-I like to create values through software development and business collaboration.
-
-I converse mainly in Java. My experience includes:
-- OSGi for modularized desktop application development.
-- Web Extension architecture.
-- Relational database: PostgreSQL.
-- Non-relational database: NoSQL.
-- Front-end development: React, Hyperapp.
-- Server-side development: Spring Boot, NodeJS.
-- Data Visualization: d3JS.
-
-Overall, I have more extensive experience with back-end development, relative to front-end development.
-
-My professional experience and interests, besides software development, span across the spectrum of product development. I have:
-- Created and delivered values to users by proposing and defending product requirements.
-- Helped Enterprises adopt our tools formally through leading technical training courses.
-- Identified Product-Market fit by conducting Cohort Analysis.
-
-[Dafuq is that Blog](https://dafuqisthatblog.wordpress.com/)
+| Webinar                                                                                                                        	| Projects                                                                                    	| Tech stack                                                                        	| Blog posts                                                                                                                                                       	|
+|--------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| [What’s New in Katalon Studio 7.6 — Demo and Live Q&A](https://www.katalon.com/webinars/what-new-katalon-studio-7-6-demo-qa/)  	| [Another Writing Application](https://github.com/minhthanh3145/Another-Writing-Application) 	| d3Js, Spring Boot, OSGi, Java, PostgreSQL, React, Hyperapp, NodeJS, Web Extension 	| [Why I built Another Writing Application](https://dafuqisthatblog.wordpress.com/2020/05/27/why-i-built-another-writing-application/)                             	|
+| [What’s New in Katalon Studio 7.5 — Demo and Live Q&A](https://www.katalon.com/webinars/what-new-katalon-studio-7-5-demo-qa/)  	| [Repository Investigator](https://github.com/minhthanh3145/Repository-Investigator)         	|                                                                                   	| [The Visitation of Visitor Pattern: How it makes your software more useful](https://dafuqisthatblog.wordpress.com/2020/04/25/the-visitation-of-visitor-pattern/) 	|
+| [Solving 2020 Mobile Testing Challenges with Codeless Solutions](https://www.youtube.com/watch?v=EClaST1n-Z4&feature=youtu.be) 	| [Katalon Notes](https://github.com/minhthanh3145/katalon-notes)                             	|                                                                                   	| [[The Logic of Life] Why some workplaces are miserable](https://dafuqisthatblog.wordpress.com/2019/11/29/the-logic-of-life-why-some-workplaces-are-miserable/)   	|
