@@ -1,5 +1,3 @@
-Hi there, I am Thanh, a software engineer.
-
 I like to create values through software development and business collaboration.
 
 I converse mainly in Java. My experience includes:
@@ -18,6 +16,4 @@ My professional experience and interests, besides software development, span acr
 - Helped Enterprises adopt our tools formally through leading technical training courses.
 - Identified Product-Market fit by conducting Cohort Analysis.
 
-Also, I maintain side-projects, which are broadly categorized as followed:
-- [Dafuq is that Blog](https://dafuqisthatblog.wordpress.com/)
-- [Another Writing Application](https://another-writing-application.netlify.app/)
+[Dafuq is that Blog](https://dafuqisthatblog.wordpress.com/)
