@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi there, I am Thanh, a software engineer.
 
-<!--
-**minhthanh3145/minhthanh3145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to create values through software development and business collaboration.
 
-Here are some ideas to get you started:
+I converse mainly in Java. My experience includes:
+- OSGi for modularized desktop application development.
+- Web Extension architecture.
+- Relational database: PostgreSQL.
+- Non-relational database: NoSQL.
+- Front-end development: React, Hyperapp.
+- Server-side development: Spring Boot, NodeJS.
+- Data Visualization: d3JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Overall, I have more extensive experience with back-end development, relative to front-end development.
+
+My professional experience and interests, besides software development, span across the spectrum of product development. I have:
+- Created and delivered values to users by proposing and defending product requirements.
+- Helped Enterprises adopt our tools formally through leading technical training courses.
+- Identified Product-Market fit by conducting Cohort Analysis.
+
+Also, I maintain side-projects, which are broadly categorized as followed:
+- [Dafuq is that Blog](https://dafuqisthatblog.wordpress.com/)
+- [Another Writing Application](https://another-writing-application.netlify.app/)
