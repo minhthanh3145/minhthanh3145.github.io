@@ -3,7 +3,7 @@ layout: post
 title: "A framework to produce insights with evergreen notes"
 author: "Thomas"
 categories: insight
-header-img: "orchard-of-thomas.png"
+header-img: "assets/images/orchard-of-thomas.png"
 subtitle: "Constraint relaxation"
 ---
 
