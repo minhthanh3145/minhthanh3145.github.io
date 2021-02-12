@@ -6,6 +6,8 @@ categories: competitive-advantage
 header-img: "assets/images/orchard-of-thomas.png"
 ---
 
+A look at risk management from biology, system thinking, philosophy and more.
+
 **Controlled fires**
 
 People tend to overestimate risks and underestimate opportunities because, evolutionarily speaking, missing a threat is more detrimental than missing an opportunity. You can survive on an empty stomach for days if you miss a deer, but missing a lion or a wolf would result in an unfavorable outcome immediately. That said, taking risks in a controlled manner has many benefits, and sometimes is crucial to survival and growth. A case in point is the fact that humans use controlled fires to improve the ecological health of forests.

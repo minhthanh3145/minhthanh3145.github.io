@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "Why some workplaces are miserable"
+title: "Start with the heart"
 author: "Thomas"
 categories: competitive-advantage
 header-img: "assets/images/orchard-of-thomas.png"
 ---
 
-So we all know that, in order to handle crucial conversations, we should focus on having a dialogue. But **the question is how ?**
+In order to handle crucial conversations such as promotions or lay-offs, we should focus on having a genuine dialogue. But **the question is how ?**. The first advice of the book **Start with the Heart** is, well, to start with the heart
 
-The first advice the book gives is: **Start with the Heart**. When I first read this advice, it seems generic. What heart ? Whose heart ? Doesn't sound informative.But the answer is, the heart, our heart. Still not very informative ?
+We are a creature that can learn and adapt to the environment in an amazing capacity. But to be that effective, our brain circuits are re-used a lot. Specifically, the circuits in charge of recognizing the physical threats are also the same one responsible for recognizing the social threats.
 
-We are a creature that can learn and adapt to the environment in an amazing capacity. But to be that effective, our brain circuits are re-used a lot. The circuits in charge of recognizing the physical threats are also the same one responsible for recognizing the social threats.
+When we engage in a crucial conversation, emotions run strong and the stakes are high. As a result, we perceive ourselves as being threatened. Our brains respond to this threat before even knowing what the threat is precisely. It bumps blood to various parts of the body to prepare for fight-or-flights.
 
-When we engage in a crucial conversation, emotions run strong and the stakes are high, naturally we perceive ourselves as being threatened. Our brains then, to respond to this threat before even knowing what the threat is precisely, bump blood to various parts of the body to prepare for fight-or-flights.
-
-This, sadly, means that not much blood will be coming up to our brain. Worst, the degree of social threats fails pale compared to the physical threats (such as lion), so our senses are not heightened to the degree where things slow down and our processing power increases. All crucial conversations do is impose on us a condition of not being able to think clearly.
+This means that not much blood will be coming up to our brain. Worst, the degree of social threats seems pale compared to the physical threats (such as lion), so our senses are not heightened to the degree where things slow down and our processing power increases. We just become somewhat nervous and ineffective. All crucial conversations do is impose on us a condition of not being able to think clearly.
 
 This is where the Heart goes in. Most of our thoughts are often interpretations that our brain makes of the bodily responses. It means that when we are under danger, our brain will interpret the signals as fight-or-flight, and this causes us to act in a manner that utilizes our physical capabilities to solve a social problem. This clearly is not the way to go.
 
