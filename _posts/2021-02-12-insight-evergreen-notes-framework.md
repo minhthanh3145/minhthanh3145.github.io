@@ -6,10 +6,12 @@ categories: insight
 header-img: "assets/images/orchard-of-thomas.png"
 ---
 
-# A framework to insights
+# A framework to insights with evergreen notes
 
 Note-taking facilitates writing because it enables manipulating an abstract entity by manipulating a concrete entity
-An idea is represented as a distribution of activation of pieces of knowledge in memory. A note is an externalized representation of the idea that it captures. This is arguably where the strength of note-taking comes from: by manipulating a note, which is a concrete entity, we can manipulate an idea, which is an abstract entity . Thinking is difficult, it means being able to divide your mind into people and withstanding the tension of them battling it out. Because our brain is more powerful a processor than a storage, and it's the playing out of the dialogue that contains the potential for novel ideas, we should externalize as much as what's necessary for the internal conversation to take place. In other words, we think more effectively by manipulating our notes.
+An idea is represented as a distribution of activation of pieces of knowledge in memory. A note is an externalized representation of the idea that it captures. This is arguably where the strength of note-taking comes from: by manipulating a note, which is a concrete entity, we can manipulate an idea, which is an abstract entity.
+
+Thinking is difficult, it means being able to divide your mind into people and withstanding the tension of them battling it out. Because our brain is more powerful a processor than a storage, and it's the playing out of the dialogue that contains the potential for novel ideas, we should externalize as much as what's necessary for the internal conversation to take place. In other words, we think more effectively by manipulating our notes.
 
 ## Densely linked evergreen notes facilitate insights by facilitating chunk decomposition
 
