@@ -17,7 +17,7 @@ Thinking is difficult, it means being able to divide your mind into people and w
 
 Chunk decomposition is one way to reach insights. A chunk is how we perceptually represent an idea, which is very similar to a note. In fact, a properly written evergreen note is equivalent to a chunk. Chunk decomposition then becomes note decomposition. A loose chunk consists of other meaningful chunks. By that definition, a densely linked evergreen note is a loose chunk because it can be unpacked to other evergreen notes . We also know that loose chunks are much more likely to be decomposed before tight chunks. Therefore, densely linked evergreen notes facilitate insights by facilitating chunk decomposition.
 
-## A technique to search for insights with evergreen notes using chunk decomposition
+## Decompose evergreen notes
 
 Use a set of relevant evergreen notes to think about a problem. This is why evergreen notes should be atomic and concept-oriented. These attributes makes problem representation easier.
 
