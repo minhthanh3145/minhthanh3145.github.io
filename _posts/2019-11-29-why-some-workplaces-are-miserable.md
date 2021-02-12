@@ -62,4 +62,8 @@ It is hard to measure objectively, but it's relatively easier to compare one emp
 
 From an employee's perspective, in order to be the outstanding one - there are two ways: To do a really good job, or to make other employees look bad in comparison. One study showed that more backstabbing behaviors were observed when the big raises are promise to the best workers. Backstabbing behaviors in this context are perfectly rational.
 
-Some would say that tournaments fail to motivate workers. This is false, tournaments do encourage workers to be more productive, however it also encourages workers to make other workers look bad. Therefore, to realize a tournament, a manager would (only) need to calculate (informally) wether efforts of employees in improving his/her own performances would be more or less than efforts to denigrate other. It is a fairly realistic scheme.
+Some would say that tournaments fail to motivate workers. This is false, tournaments do encourage workers to be more productive, however it also encourages workers to make others look bad.
+
+**Conclusion**
+
+In conclusion, the tournament theory posits that managers set up tournaments in offices in order to improve employee performance. This set up stems from trying to work around the difficulty of measuring performance, instead of investing more efforts in getting informed judgement about performance. This scheme works, because it also promotes productivity, but the side effects are backstabbing behaviors and miserable employees.
