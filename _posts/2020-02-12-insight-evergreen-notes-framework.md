@@ -4,7 +4,6 @@ title: "A framework to produce insights with evergreen notes"
 author: "Thomas"
 categories: insight
 header-img: "assets/images/orchard-of-thomas.png"
-subtitle: "Constraint relaxation"
 ---
 
 Constraint relaxation and chunk decomposition as means to insights. What about a note-taking workflow that facilitates these two processes ? Because loose chunks are more likely to be decomposed than tight chunks, an idea is to target systematically notes that are not densely linked because they correspond to tight chunks. For constraint relaxation, the workflow should focus on making current assumptions explicit. The higlighting step from progressive summarization can be used to identify hidden assumptions. The results of trying to come up with this workflow may be an interesting writing project that can be used to build up reputation in the note-taking world.

@@ -3,6 +3,7 @@ layout: post
 title: "Beginner's guide to serious note-taking"
 author: "Thomas To"
 categories: insight
+header-img: "assets/images/orchard-of-thomas.png"
 ---
 
 Note-taking is an activity that gets practiced a lot, but not a lot of practices are active. In my experience, people take notes so that they don't forget, or because these are interesting, or because they may have some short-term use for it (schools and stuffs).

@@ -3,6 +3,7 @@ layout: post
 title: "Demystifying CI/CD, and a simple economic concept that enables Continuous Delivery"
 author: "Thomas"
 categories: insight
+header-img: "assets/images/orchard-of-thomas.png"
 ---
 
 We often hear the term CI/CD getting tossed around in conversations, particularly in the software world. It has become such a buzzword, like AI and Machine Learning, that our mind becomes saturated. As a result, we unconsciously (or consciously) don't even bother elaborating the term.
