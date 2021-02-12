@@ -6,19 +6,21 @@ categories: competitive-advantage
 header-img: "assets/images/orchard-of-thomas.png"
 ---
 
+A distilled look into why some workplaces are miserable, from the book "The Logic of Life".
+
 There are many office problems that turn your work life into a living hell: back-stabbing colleagues, bullying bosses and all sorts of irrational behaviors. However, some of these behaviors may not be so irrational. In fact, they are rational given the circumstances constructed by managers.
 
 In a company, you'd need information about the employees: Who are talented, and who are hard-working, who are honest; in order to pay them accordingly. But these virtues are very hard to measure. So instead of trying to deal with the difficult problem directly, the absurdities we observe are often the result from attempts to sideway the problem.
 
 **Performance pay works if performance is straight-forward to measure**
 
-To see that this underlies the bad behaviors observed in the workplace, we can look at the workplace that lack such undesirable behaviors. The author of the book _freakonomics_ - which caused a global phenomenon, were paid by royalties. The publisher could have convinced him that the book wouldn't have done well and offered him a big upfront - yet negligible to the actual revenue of that book. This would cut the cost of operation - per se, for the publishers, but it wouldn't be rational.
+To see that this underlies the bad behaviors observed in the workplace, we can look at some settings where such undesirable behaviors do not occur. The author of the book _freakonomics_ - which caused a global phenomenon, were paid by royalties. The publisher could have convinced him that the book wouldn't have done well and offered him a big upfront - yet negligible to the actual revenue of that book. This would cut the cost of operation - per se, for the publishers, but it wouldn't be rational.
 
-This is because no one wants to hire a writer who is not interested in the success of the book. If an advance was offered, then hard-working and creativity doesn't serve as a mean to maximize economic well-being. As a result, most likely the author would produce an average book. This is not desirable for the publishers, because parts of the book's revenue become theirs.
+This is because no one wants to hire a writer who is not interested in the success of the book. If an advance was offered, then hard-working and creativity doesn't serve as a mean to maximize economic well-being. As a result, the author would not be motivated to produce a good book. This is undesirable, because parts of the book's revenue go to the publishers.
 
-The book freakonomics went on to become a global phenomenon and sold over 2,000,000 copies. The author took home a lot of moneys, because he was paid based on the royalties. Maybe his ideas presented in the book are controversial, but his paycheck is not. There is no controversy or need for explanations about why he's getting all this money.
+The book _freakonomics_ went on to become a global phenomenon and sold over 2,000,000 copies. The author received a lot of moneys, because he was paid based on the royalties. His ideas presented in the book may be controversial, but his paycheck is not. There is no controversy or need for explanations about why he's getting all this bling bling :)
 
-The workers in a windshield company were paid an hourly wage, regardless of their performance. New managers came in and decided that the performance was slow. They wanted to speed things up. They also decided that the workers are rational, and would install more windshields if they get paid more to do so, and if they are made to work to redeem their mistakes, they would avoid making mistakes.
+Let's examine a windshielf company. The workers were paid an hourly wage, regardless of their performance. New managers came in and decided that the performance was slow. They wanted to speed things up. They also decided that the workers are rational, and would install more windshields if they get paid more to do so, and if they are made to work to redeem their mistakes, they would avoid making mistakes.
 
 This scheme increased the performance of the workers by 50%. The first reason is that workers work harder. The second reason is that the most competent workers tend to stay with the company, while incompetent workers tend to drift away, which improves the average performance of the company. The quality increased and the number of reported mistakes fell.
 
