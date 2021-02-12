@@ -6,8 +6,6 @@ categories: insight
 header-img: "assets/images/orchard-of-thomas.png"
 ---
 
-# A framework to insights with evergreen notes
-
 Note-taking facilitates writing because it enables manipulating an abstract entity by manipulating a concrete entity
 An idea is represented as a distribution of activation of pieces of knowledge in memory. A note is an externalized representation of the idea that it captures. This is arguably where the strength of note-taking comes from: by manipulating a note, which is a concrete entity, we can manipulate an idea, which is an abstract entity.
 
