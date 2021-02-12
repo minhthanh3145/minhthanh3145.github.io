@@ -5,7 +5,7 @@ title: About
 
 Hi there, I am Thomas, I am an aspiring product developer with 3-years experience of professional software development.
 
-My aspiration is to help individuals who aspire to be product development by helping them build competitive advantages through (meta) insights. My research includes research on insight problem solving, product development methodology, and personal moats.
+I want to help individuals (including myself) who are involved in product development by helping them build competitive advantages through insights. My focus is on how to systematically generate insights, applications of product development framework, and how to build long-term personal moats.
 
 I have participated in a various aspects of product development in order to pursue my aspiration:
 

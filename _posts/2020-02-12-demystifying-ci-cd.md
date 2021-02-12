@@ -14,7 +14,7 @@ We often hear the term CI/CD getting tossed around in conversations, particularl
 
 ![](https://dafuqisthatblog.files.wordpress.com/2020/09/mermaid-diagram-20200923123513.png?w=615)
 
-#### By reducing the size of merge conflicts
+**By reducing the size of merge conflicts**
 
 The job of a software developer, at a very literal level that doesn't account for all of its sophistication, is to modify the source code of an application so that it produces new behaviors. The source code is a dozen of text files written in one or more programming languages. The source code goes through a magical process called building that eventually turns the text files into an application.
 
@@ -30,7 +30,7 @@ When a merge-conflict happens, a developer has to manually resolve the conflict 
 
 Herein the first benefit of continuous integration: Continuous Integration helps reduce risks by reducing the size of merge conflicts. The opposite is not integrating the code into a shared place frequently. In other words, it is integrating the code of a feature *only after the feature has been done*. This leads to big merge conflicts, which are more risky than small merge conflicts.
 
-#### By preventing programming errors from going downstream
+**By preventing programming errors from going downstream**
 
 The other part of continuous integration is verifying the source code automatically.
 
