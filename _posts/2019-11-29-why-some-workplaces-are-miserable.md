@@ -28,9 +28,9 @@ In these cases, performance is very straight-forward to measure, therefore a per
 
 **Poor measurements can be easily manipulated**
 
-Even when attempts are made, manipulation on measurements is very easy. If your job is to respond to customers' complaints, and if your KPI is that no customers should wait longer than 10 days, then you would rationally ignore those who haven't reached the 7, 8th day. It simply wouldn't mean much to your KPI. So you would only prioritize customers who have been waiting long enough. As a result, the response time slows down on average. Your number of customers also decreases, but nobody measures that, so it's okay.
+Even when attempts are made, manipulation on measurements is very easy. If your job is to respond to customers' complaints, and if your KPI is that no customers should wait longer than 10 days, then you would rationally ignore those who haven't reached the 7, 8th day. It simply wouldn't mean much to your KPI. So you would only prioritize customers who have been waiting long enough. As a result, the number of people who have to wait more than 10 days decreases. Your number of customers also decreases, but nobody measures that, so it's okay.
 
-So your managers propose a second KPI which is the response time (SLA) must not be lower than a particular number. So this time you prioritize customers with easy-to-resolve complaints. As a result, those with serious issues which would take time to investigate and respond would never get resolved. The average response time goes up though, so that must be good.
+So your managers propose a second KPI which is the response time (SLA) must not be lower than a particular number. So this time you prioritize customers with easy-to-resolve complaints. As a result, those with serious issues which would take time to investigate and respond would never get resolved. The average response time goes down though, so that must be good.
 
 So a third KPI is introduced which is to both improve the response time and the number of critical issues resolved. You of course can meet these by working overtime. But working overtime means that the company must pay you more, so a fourth KPI which restricts the overtime would eventually come into play.
 
