@@ -34,15 +34,15 @@ So your managers propose a second KPI which is the response time (SLA) must not 
 
 So a third KPI is introduced which is to both improve the response time and the number of critical issues resolved. You of course can meet these by working overtime. But working overtime means that the company must pay you more, so a fourth KPI which restricts the overtime would eventually come into play.
 
-As a result, you basically won't do anything, and be grumpy all day.Sometimes it's just hard to know who's performing well on the job.
+As a result, you basically won't do anything, and be grumpy all day. Sometimes, it's just hard to know who's performing well on the job.
 
 **We may not be able to reward good performance**
 
 But more often, we know who's performing well on the job, but are unable to reward them. A certain supermarket was a subject of an economic experiment. The economists measured the performance of the cashiers through the number of 'beep' per second.
 
-They wanted to know if workers are more productive when surrounded by productive colleagues. The answer is that, we do tend to be more productive when surrounded by productive colleagues only when the productive ones observe us. They note that performance went up when cashiers are being watched by more productive cashiers - by means of arranging the checkout aisles, and did not change when cashiers watch more productive cashiers.
+They wanted to know if workers are more productive when surrounded by productive colleagues. It turns out that we do tend to be more productive when surrounded by productive colleagues. But the twist is that happens only when the productive ones observe us. They note that performance went up when subjects are being watched by the more productive cashiers - by means of arranging the checkout aisles, and did not change when the subjects observe the more productive cashiers.
 
-This information could have been used to reward the more productive cashiers if the supermarket has switched to a piece rates model, where cashiers get rewarded by the number of pieces they check out. However, this plan was never put into motion, because the labor union resisted the piece rates, and because workers valued fixed hours more than flexible hours but higher salary. Another important reason is that measuring performance by the number of 'beep' indeed would have incentivized better performance, but at the cost of minimizing away variables like correctness of the scan, or the attitudes toward customers.
+This information could be used to reward the more productive cashiers. For example, the supermarkets could switch to a piece rates model, where cashiers get rewarded by the number of pieces they check out. However, this plan was never put into motion, because the labor union resisted the piece rate policy. Workers valued fixed hours with lower salary more than flexible hours with higher salary. Another important reason is that measuring performance by the number of 'beep' they made (through checking out a piece) indeed would incentivize better performance, but at the cost of minimizing away variables like correctness of the scan, or the attitudes toward customers.
 
 **Sometimes objective performance measures are difficult**
 
