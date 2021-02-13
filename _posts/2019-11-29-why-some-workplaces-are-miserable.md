@@ -14,13 +14,13 @@ In a company, you'd need information about the employees: Who are talented, and 
 
 **Performance pay works if performance is straight-forward to measure**
 
-To see that this underlies the bad behaviors observed in the workplace, we can look at some settings where such undesirable behaviors do not occur. The author of the book _freakonomics_ - which caused a global phenomenon, were paid by royalties. The publisher could have convinced him that the book wouldn't have done well and offered him a big upfront - yet negligible to the actual revenue of that book. This would cut the cost of operation - per se, for the publishers, but it wouldn't be rational.
+We can start by looking at certain settings where such undesirable behaviors do not occur. The author of the book _freakonomics_ - which caused a global phenomenon, were paid by royalties. The publisher could have convinced him that the book wouldn't have done well and offered him a big upfront - yet negligible to the actual revenue of that book. This would cut the cost of operation - per se, for the publishers, but it wouldn't be rational.
 
 This is because no one wants to hire a writer who is not interested in the success of the book. If an advance was offered, then hard-working and creativity doesn't serve as a mean to maximize economic well-being. As a result, the author would not be motivated to produce a good book. This is undesirable, because parts of the book's revenue go to the publishers.
 
 The book _freakonomics_ went on to become a global phenomenon and sold over 2,000,000 copies. The author received a lot of moneys, because he was paid based on the royalties. His ideas presented in the book may be controversial, but his paycheck is not. There is no controversy or need for explanations about why he's getting all this bling bling :)
 
-Let's examine a windshielf company. The workers were paid an hourly wage, regardless of their performance. New managers came in and decided that the performance was slow. They wanted to speed things up. They also decided that the workers are rational, and would install more windshields if they get paid more to do so, and if they are made to work to redeem their mistakes, they would avoid making mistakes.
+Let's examine a windshield company. The workers were paid an hourly wage, regardless of their performance. New managers came in and decided that the performance was slow. They wanted to speed things up. They also decided that the workers are rational, and would install more windshields if they get paid more to do so, and if they are made to work to redeem their mistakes, they would avoid making mistakes.
 
 This scheme increased the performance of the workers by 50%. The first reason is that workers work harder. The second reason is that the most competent workers tend to stay with the company, while incompetent workers tend to drift away, which improves the average performance of the company. The quality increased and the number of reported mistakes fell.
 
@@ -48,7 +48,7 @@ This information could have been used to reward the more productive cashiers if 
 
 Usually, managers know when people are lazy or productive, but such knowledge will not be put into any documentation, except to be used in annual review, promotion and let-gos. As the saying goes: "You get what you measure", measuring certain aspects of performance would encourage optimization of some factors, at the risk of other factors. Some jobs are easy to determine if they are well-done or not, but other jobs not so straight-forward.
 
-For these jobs, the rational manager should look for a more "holistic" approach. This means managers would base the decisions about what good work is sorta like watching porn: They can't define it, but they know it when they see it. This is quiet a sensible line of reasoning which would align well with what people see as well, just that it can't be objectively explained.
+For these jobs, the rational manager should look for a more "holistic" approach. This means managers would base the decisions about what good work is sorta like watching porn: They can't define it, but they know it when they see it. This is quite a sensible line of reasoning which would align well with what people see as well, just that it can't be objectively explained.
 
 However, this has a problem - which is that employees don't trust managers who claim that they know what good work looks like but cannot explain why. So what's the solution to encourage employees to perform better ?
 
