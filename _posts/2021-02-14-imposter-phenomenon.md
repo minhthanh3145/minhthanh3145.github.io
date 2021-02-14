@@ -16,7 +16,7 @@ The focus on the individual is expressed on multiple levels. While the original 
 
 As a result, proposed solutions also focus on the individual, such as clinical therapy, coaching and confidence training. These individualistic approaches, at best, are unable to address how social context give rise to the imposter feelings, and at worst reinforce the notion that the individual is ultimately responsible for fixing their own situations.
 
-Therefore, we should use the term **Imposter Phenomenon**, because such a term takes into account the multi-dimensional complexity associated with the phenomenon. Rethinking it as such allows us to escape from the individualistic mindset and examine the concept from multiple levels.
+Therefore, we should use the term **Imposter Phenomenon**, because it takes into account the multi-dimensional complexity associated with the phenomenon. Rethinking it as such allows us to escape from the individualistic mindset and examine the concept from multiple levels.
 
 ## Imposter Phenomenon on multiple levels
 
