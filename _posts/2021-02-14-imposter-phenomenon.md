@@ -38,7 +38,7 @@ How people are treated by their immediate peers are also suggestive of how they 
 
 Therefore, the quality of treatment people receive from others is important in understanding and treating the imposter feelings. Individuals may feel like imposters when they are treated in ways that suggest they are. It also suggests that imposter feelings can be mitigated by treating individuals as a person of value and worth.
 
-### How Imposter Feelings are maintained
+## How Imposter Feelings are maintained
 
 There are at least four types of behaviors that tend to maintain the imposter phenomenon. In the study that originates the term, a number of woman who experience imposter feelings were found to participate in one or more of these behaviors, but seldom all of them.
 
