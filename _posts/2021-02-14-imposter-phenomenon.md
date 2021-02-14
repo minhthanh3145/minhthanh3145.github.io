@@ -48,7 +48,7 @@ One part of her believes the family myth, the other part wants to disprove it. S
 
 Group two are women who have been conveyed by their family that they are superior in everyway. There is nothing she cannot do if she wants to, and she can do it with ease. She was told of her numerous examples of precocity as an infant or toddler. In the family members' eyes she is perfect.
 
-However, she begins to experience difficulty and realizes that she cannot do everything she wants to. Yet she feels obliged to fulfill her family's expectations. She begins to distrust her parents' perceptions because they praise her indiscriminately. Worse, she begins to doubt herself. Having internalized her parents' expectations that intelligence means perfection with ease, she realizes she is not intelligent due to the difficulty she has faced.
+However, she begins to experience difficulty and realizes that she cannot do everything she wants to. Yet she feels obliged to fulfill her family's expectations. She begins to distrust her parents' perceptions because they praise her indiscriminately. Having internalized her parents' expectations that intelligence means perfection with ease, she begins to doubt her intelligence due to the difficulty she has faced.
 
 ## How Imposter Feelings may be maintained
 
