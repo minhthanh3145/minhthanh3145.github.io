@@ -6,7 +6,7 @@ categories: competitive-advantage
 header-img: "assets/images/orchard-of-thomas.png"
 ---
 
-The imposter syndrome refers to the notion that some individuals feel that they end up at esteemed positions not because of their competence but due to some oversight or pure luck. As a result, such individuals feel like "imposters".
+The Imposter Phenomenon refers to the notion that some individuals feel that they end up at esteemed positions not because of their competence but due to some oversight or pure luck. As a result, such individuals feel like "imposters".
 
 ## Imposter "Syndrome"
 
