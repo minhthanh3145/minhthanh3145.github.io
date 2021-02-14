@@ -38,7 +38,19 @@ How people are treated by their immediate peers are also suggestive of how they 
 
 Therefore, the quality of treatment people receive from others is important in understanding and treating the imposter feelings. Individuals may feel like imposters when they are treated in ways that suggest they are. It also suggests that imposter feelings can be mitigated by treating individuals as a person of value and worth.
 
-## How Imposter Feelings are maintained
+## How Imposter Feelings may be created
+
+The original author observes that the imposters typically fall into one of two groups with respect to early family history. Keep in mind that their study focus on women, and especially women in academia.
+
+Group one are women who have a sibiling a close relative who have been designated as the "intelligent" member of the family, while she is "sensitive" member of the family. The implication is that she can never be as bright as her siblings regardless of her actual intellectual accomplishment.
+
+One part of her believes the family myth, the other part wants to disprove it. She succeeds in obtaining good grades, acclaim from teachers, but still her family attributes intelligence to the "bright" sibling despite poorer performance. She continues to seek for validation, secretly doubts her own ability and wonders if her success is because of her social skills and feminine charm.
+
+Group two are women who have been conveyed by their family that they are superior in everyway. There is nothing she cannot do if she wants to, and she can do it with ease. She was told of her numerous examples of precocity as an infant or toddler. In the family members' eyes she is perfect.
+
+However, she begins to experience difficulty and realizes that she cannot do everything she wants to. Yet she feels obliged to fulfill her family's expectations. She begins to distrust her parents' perceptions because they praise her indiscriminately. Worse, she begins to doubt herself. Having internalized her parents' expectations that intelligence means perfection with ease, she realizes she is not intelligent due to the difficulty she has faced.
+
+## How Imposter Feelings may be maintained
 
 There are at least four types of behaviors that tend to maintain the imposter phenomenon. In the study that originates the term, a number of woman who experience imposter feelings were found to participate in one or more of these behaviors, but seldom all of them.
 
