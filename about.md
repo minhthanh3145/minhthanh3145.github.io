@@ -3,11 +3,13 @@ layout: post
 title: About
 ---
 
-Hi there, I am Thomas, I am an aspiring product developer with 3-years experience of professional software development.
+Hi there, I am Thomas, I am an aspiring product developer with years of professional software development experience.
 
-I want to help individuals (including myself) who are involved in product development by helping them build competitive advantages through insights. My focus is on how to systematically generate insights, applications of product development framework, and how to build long-term personal moats.
+I want to help individuals (including myself) who are involved in product development by helping them build competitive advantages through insights.
 
-I have participated in a various aspects of product development in order to pursue my aspiration:
+My focus is on how to systematically generate insights, applications of product development framework, and how to build long-term personal moats. This blog is where my journey takes place publicly !
+
+Just to give you a sense of who I am, these are various aspects of product development that I partaked in order to pursue my aspiration:
 
 - **Software Engineer**: Participate in ideation, implementation and testing of mission-critical features and products.
 - **Product Manager**: Research, proposed, implemented features, requirements and UX that maximize customer satisfactions and KPIs.
