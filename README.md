@@ -14,7 +14,7 @@ I have participated in a various aspects of product development in order to purs
 ![image](https://user-images.githubusercontent.com/16775806/107802313-bfc65b80-6d93-11eb-99cf-7c4cba1b43a4.png)
 
 My online presence
-- [Orchard of Thomas](https://minhthanh3145.github.io/)
+- [Dafuq is that blog](https://dafuqisthatblog.wordpress.com/)
 - [Github](https://github.com/minhthanh3145)
 - [Linkedin](https://www.linkedin.com/in/thanh-minh-to/)
 
