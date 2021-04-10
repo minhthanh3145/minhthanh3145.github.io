@@ -10,9 +10,6 @@ I have participated in a various aspects of product development in order to purs
 - **Product Expert**: Helped Enterprises adopt our tools formally through leading, designing technical training courses.
 - **Data Analyst**: Evaluated features' usefulness by conducting qualitative (survey, interviews) and quantitative analysis (cohort analysis).
 
-
-![image](https://user-images.githubusercontent.com/16775806/107802313-bfc65b80-6d93-11eb-99cf-7c4cba1b43a4.png)
-
 My online presence
 - [Dafuq is that blog](https://dafuqisthatblog.wordpress.com/)
 - [Github](https://github.com/minhthanh3145)
