@@ -1,4 +1,4 @@
-Hi there, I am Thomas, I am an aspiring product developer with 3-years experience of professional software development.
+Hi there, I am Thomas, I am a product manager at Katalon with an extensive software development background.
 
 I want to help individuals (including myself) who are involved in product development by helping them build competitive advantages through insights. My focus is on how to systematically generate insights, applications of product development framework, and how to build long-term personal moats.
 
