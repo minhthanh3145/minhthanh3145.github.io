@@ -2,7 +2,7 @@
 layout: page
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+subclass: 'post'
 current: about
 ---
 

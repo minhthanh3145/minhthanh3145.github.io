@@ -1,6 +1,9 @@
 ---
 layout: post
-title: About
+subclass: post
+navigation: true
+cover: false
+title: About me
 ---
 
 Hi there, I am Thomas, I am an aspiring product developer with 3-years experience of software development.
