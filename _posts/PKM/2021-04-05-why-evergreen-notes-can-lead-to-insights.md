@@ -5,9 +5,8 @@ categories:
   - "pkm"
 tags:
   - "evergreen-note"
-  - "insight"
-  - "obsidian"
-  - "zette"
+  - "note-taking"
+  - "zettelkasten"
 layout: post
 subclass: post
 navigation: "true"

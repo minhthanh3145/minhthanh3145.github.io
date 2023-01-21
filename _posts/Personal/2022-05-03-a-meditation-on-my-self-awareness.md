@@ -4,7 +4,6 @@ date: "2022-05-03"
 layout: post
 subclass: post
 navigation: "true"
-cover: assets/images_1/
 ---
 |-
   _Note:_ This may get a bit personal. I really didn't write it thinking that it might help you in any way. It's one of those selfish blog posts that the authors dedicate to no one but themselves. But I welcome all readership.

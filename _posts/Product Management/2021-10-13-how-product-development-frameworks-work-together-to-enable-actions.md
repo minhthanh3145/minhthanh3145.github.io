@@ -5,10 +5,7 @@ categories:
   - "product-development"
 tags:
   - "jtbd"
-  - "north-star-framework"
-  - "opportunity-solution-trees"
-  - "product-development-frameworks"
-  - "product-strategy"
+  - "product-management"
 layout: post
 subclass: post
 navigation: "true"

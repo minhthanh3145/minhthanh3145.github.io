@@ -10,7 +10,6 @@ tags:
 layout: post
 subclass: post
 navigation: "true"
-cover: assets/images_1/
 ---
 
 **Table of contents**

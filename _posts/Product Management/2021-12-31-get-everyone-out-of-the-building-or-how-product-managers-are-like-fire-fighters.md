@@ -6,7 +6,7 @@ categories:
   - "product-development"
 tags:
   - "2021reflection"
-  - "productmanagement"
+  - "product-management"
 cover: "assets/images_1/pexels-photo-266403.jpeg"
 layout: post
 subclass: post

@@ -4,9 +4,7 @@ date: "2021-04-08"
 categories:
   - "book-notes"
 tags:
-  - "albert-camus"
   - "philosophy"
-  - "suicide"
 layout: post
 subclass: post
 navigation: "true"

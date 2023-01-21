@@ -4,10 +4,9 @@ date: "2021-06-06"
 categories:
   - "product-development"
 tags:
-  - "7-powers"
   - "gibson-biddle"
   - "jtbd"
-  - "product-strategy"
+  - "product-management"
 layout: post
 subclass: post
 navigation: "true"

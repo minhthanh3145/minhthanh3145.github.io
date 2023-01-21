@@ -6,7 +6,6 @@ categories:
 layout: post
 subclass: post
 navigation: "true"
-cover: assets/images_1/
 ---
 |-
   When you're in pain, you tend to seek distraction.

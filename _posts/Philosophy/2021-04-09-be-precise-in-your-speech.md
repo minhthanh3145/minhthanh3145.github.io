@@ -4,9 +4,7 @@ date: "2021-04-09"
 categories:
   - "book-notes"
 tags:
-  - "12-rules-for-life"
-  - "be-precise-in-your-speech"
-  - "jordan-peterson"
+  - "philosophy"
 layout: post
 subclass: post
 navigation: "true"

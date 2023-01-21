@@ -4,11 +4,8 @@ date: "2021-09-03"
 categories:
   - "product-development"
 tags:
-  - "escaping-the-build-trap"
-  - "melissa-perri"
-  - "product-kata"
-  - "product-manager"
-  - "strategy"
+  - "product-management"
+  - "product-strategy"
 layout: post
 subclass: post
 navigation: "true"

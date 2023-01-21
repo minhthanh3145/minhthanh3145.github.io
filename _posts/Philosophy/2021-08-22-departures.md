@@ -4,9 +4,7 @@ date: "2021-08-22"
 categories:
   - "personal"
 tags:
-  - "death"
-  - "mental-models"
-  - "mental-simulation"
+  - "jordan-peterson"
 layout: post
 subclass: post
 navigation: "true"

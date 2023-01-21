@@ -18,9 +18,6 @@ I have taken on various roles and participated in a lot of aspects of product de
 - **Product Expert**: Helped Enterprises adopt our tools formally through leading, designing technical training courses.
 - **Data Analyst**: Evaluated features' usefulness by conducting qualitative (survey, interviews) and quantitative analysis (cohort analysis).
 
-Outside of work, I maintain some side-projects:
-
-- [Dafuq is that blog](https://dafuqisthatblog.wordpress.com/)
-- [Github](https://github.com/minhthanh3145)
+Outside of work, I maintain some side-projects at [Github](https://github.com/minhthanh3145)
 
 I practice writing [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) vigorously in [Obsidian](http://obsidian.md/).
