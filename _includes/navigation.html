@@ -4,13 +4,13 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="site.url">Home</a></li>
-        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="site.urlabout">About</a></li>
-        <li class="nav-fables {% if page.url contains 'product-management' %} nav-current{% endif %}" role="presentation"><a href="site.urltag/product-management">Product management</a></li>
-        <li class="nav-fables {% if page.url contains 'product-strategy' %} nav-current{% endif %}" role="presentation"><a href="site.urltag/product-strategy">Product strategy</a></li>
-        <li class="nav-fables {% if page.url contains 'quarantine-diarty' %} nav-current{% endif %}" role="presentation"><a href="site.urltag/quarantine-diarty">Quarantine diarty</a></li>
-        <li class="nav-fables {% if page.url contains 'note-taking' %} nav-current{% endif %}" role="presentation"><a href="site.urltag/note-taking">Knowledge management</a></li>
+        <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.url }}">Home</a></li>
+        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.url }}about">About</a></li>
+        <li class="nav-fables {% if page.url contains 'product-management' %} nav-current{% endif %}" role="presentation"><a href="{{ site.url }}tag/product-management">Product management</a></li>
+        <li class="nav-fables {% if page.url contains 'product-strategy' %} nav-current{% endif %}" role="presentation"><a href="{{ site.url }}tag/product-strategy">Product strategy</a></li>
+        <li class="nav-fables {% if page.url contains 'quarantine-diarty' %} nav-current{% endif %}" role="presentation"><a href="{{ site.url }}tag/quarantine-diarty">Quarantine diarty</a></li>
+        <li class="nav-fables {% if page.url contains 'note-taking' %} nav-current{% endif %}" role="presentation"><a href="{{ site.url }}tag/note-taking">Knowledge management</a></li>
     </ul>
-    <a class="subscribe-button icon-feed" href="site.urlfeed.xml">Subscribe</a>
+    <a class="subscribe-button icon-feed" href="{{ site.url }}feed.xml">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
