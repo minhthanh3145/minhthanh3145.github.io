@@ -4,6 +4,8 @@ date: "2021-08-10"
 layout: post
 subclass: post
 navigation: "true"
+tags:
+    - quarantine-diary
 cover: assets/images_1/
 ---
 

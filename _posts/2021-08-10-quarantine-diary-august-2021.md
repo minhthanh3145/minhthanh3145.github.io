@@ -4,6 +4,8 @@ date: "2021-08-10"
 layout: post
 subclass: post
 navigation: "true"
+tags:
+    - quarantine-diary
 cover: "assets/images_1/pexels-photo-2156881.jpeg"
 ---
 
@@ -23,17 +25,9 @@ Finally, in the published version, I removed some thoughts which originally appe
 And a final word, and god knows I hate seeing things like this on blog posts, but the English used in these series are not perfect since I am not a native speaker. I'll try to go over and edit them sometimes, but for the mean time they probably will stay that way.
 
 ## The series
-
-https://dafuqis-that.com/2021/08/10/quarantine-diary-fifth-day-august-4th-2021-trying-to-work-and-fail-yesterday-people-at-work-seem-to-think-ill-be-out-of-contact-for-a-while/
-
-https://dafuqis-that.com/2021/08/10/quarantine-diary-sixth-day-august-5th-2021-a-meaningless-thought-a-well-intended-action-that-is-not-helpful-the-allure-of-visualizing-happy-endings-the-annoying-piece-of-audio-crises-at-work/
-
-https://dafuqis-that.com/2021/08/10/quarantine-diary-seventh-day-august-6th-2021-getting-retested-thinking-about-risks-a-crisis-at-work-contained-a-nice-doctor-a-good-friend-rightfully-hopeful/
-
-https://dafuqis-that.com/2021/08/10/quarantine-diary-eight-day-august-7th-2021-being-drawn-to-the-darker-aspects-of-life-despair-happens-once-or-twice-the-immortal-pheonix/
-
-https://dafuqis-that.com/2021/08/10/quarantine-diary-ninth-day-august-8th-2021-a-sexual-fantasy-unhelpful-people-the-cost-of-visualizing-happy-endings-a-strangling-dangling-hope/
-
-https://dafuqis-that.com/2021/08/10/quarantine-diary-tenth-day-august-9th-2021-free-from-anticipations-the-absence-of-hope-is-not-despair-we-need-to-control-any-situation-to-a-certain-extent-getting-retested-unexpectedly-despai/
-
-https://dafuqis-that.com/2021/08/10/quarantine-diary-eleventh-day-august-10th-2021-my-subconscious-is-telling-me-something-finally-going-home-anticipations-vs-plans/
+- [Fifth day](./2021-08-10-quarantine-diary-fifth-day-august-4th-2021-trying-to-work-and-fail-yesterday-people-at-work-seem-to-think-ill-be-out-of-contact-for-a-while.md)
+- [Sixth day](./2021-08-10-quarantine-diary-sixth-day-august-5th-2021-a-meaningless-thought-a-well-intended-action-that-is-not-helpful-the-allure-of-visualizing-happy-endings-the-annoying-piece-of-audio-crises-at-work.md)
+- [Seventh day](./2021-08-10-quarantine-diary-seventh-day-august-6th-2021-getting-retested-thinking-about-risks-a-crisis-at-work-contained-a-nice-doctor-a-good-friend-rightfully-hopeful.md)
+- [Eight day](./2021-08-10-quarantine-diary-eight-day-august-7th-2021-being-drawn-to-the-darker-aspects-of-life-despair-happens-once-or-twice-the-immortal-pheonix.md)
+- [Ninth day](./2021-08-10-quarantine-diary-ninth-day-august-8th-2021-a-sexual-fantasy-unhelpful-people-the-cost-of-visualizing-happy-endings-a-strangling-dangling-hope.md)
+- [Tenth day](./2021-08-10-quarantine-diary-tenth-day-august-9th-2021-free-from-anticipations-the-absence-of-hope-is-not-despair-we-need-to-control-any-situation-to-a-certain-extent-getting-retested-unexpectedly-despai.md)
