@@ -1,7 +1,6 @@
 title: "Dafuq is that"
 email: mitatoto1997@gmail.com
-url: "https://minhthanh3145.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: /
 
 # Jekyll configuration
 #markdown: redcarpet
