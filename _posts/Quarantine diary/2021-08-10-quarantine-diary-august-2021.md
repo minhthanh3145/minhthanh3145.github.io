@@ -6,7 +6,7 @@ subclass: post
 navigation: "true"
 tags:
     - quarantine-diary
-    - personal"
+    - personal
 cover: "assets/images_1/pexels-photo-2156881.jpeg"
 ---
 
