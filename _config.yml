@@ -13,7 +13,7 @@ language: 'en-uk'
 
 # Website info
 name: 'Dafuq is that'
-description: "A product manager searching for competitive advantages for himself, others and organizations"
+description: "A product manager in search of competitive advantages for himself, other people and organizations"
 
 # Permalinks
 permalink: /:title
