@@ -4,14 +4,30 @@ disqus: false
 class: 'post-template'
 ---
 
+
 <div class="post">
-<h1>Tag: {{ page.tag }}</h1>
-<ul>
-{% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-    {{ post.description }}
-  </li>
-{% endfor %}
-</ul>
+  <h1>Tag: {{ page.tag }}</h1>
+  <ul>
+    {% for post in site.tags[page.tag] %}
+    <div class="vertical">
+      <div class="main-header-content inner">
+        <h1 class="page-title">
+          {{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+        </h1>
+        <h2 class="page-description">
+          {{ post.description }}
+        </h2>
+      </div>
+    </div>
+    {% endfor %}
+  </ul>
 </div>
 <hr>
+
+<!-- The main content area on the homepage -->
+<main id="content" class="content" role="main">
+
+  <!-- The tag below includes the post loop - partials/loop.hbs -->
+  {% include loop.html %}
+
+</main>
