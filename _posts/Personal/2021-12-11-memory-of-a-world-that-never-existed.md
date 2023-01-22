@@ -4,7 +4,7 @@ date: "2021-12-11"
 categories:
   - "personal"
 image: "_posts/images/pexels-photo-4871011.jpeg"
-layout: post
+# layout: post
 subclass: post
 navigation: "true"
 ---

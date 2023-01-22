@@ -4,7 +4,7 @@ date: "2022-03-09"
 tags:
   - "2021"
   - "reflection"
-layout: post
+# layout: post
 subclass: post
 navigation: "true"
 cover: "assets/images_1/maxresdefault.jpeg"

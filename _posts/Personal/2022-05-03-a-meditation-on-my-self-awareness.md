@@ -1,7 +1,7 @@
 ---
 title: "A meditation on my self-awareness"
 date: "2022-05-03"
-layout: post
+# layout: post
 subclass: post
 navigation: "true"
 ---

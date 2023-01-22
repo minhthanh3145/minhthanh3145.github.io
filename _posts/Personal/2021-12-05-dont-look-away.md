@@ -3,7 +3,7 @@ title: "Don't look away"
 date: "2021-12-05"
 categories:
   - "personal"
-layout: post
+# layout: post
 subclass: post
 navigation: "true"
 ---

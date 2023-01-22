@@ -7,7 +7,7 @@ tags:
   - "insights"
   - "notes"
   - "reflections"
-layout: post
+# layout: post
 subclass: post
 navigation: "true"
 ---
