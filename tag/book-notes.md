@@ -1,5 +1,5 @@
 ---
 layout: tagpane
 title: "Tag: Product Strategy"
-tag: product-strategy
+tag: book-notes
 ---

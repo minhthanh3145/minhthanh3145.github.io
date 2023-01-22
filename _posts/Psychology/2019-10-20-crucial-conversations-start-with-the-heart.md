@@ -1,7 +1,7 @@
 ---
 title: "[Crucial Conversations] Start With The Heart"
 date: "2019-10-20"
-categories:
+tags:
   - "book-notes"
 layout: post
 subclass: post

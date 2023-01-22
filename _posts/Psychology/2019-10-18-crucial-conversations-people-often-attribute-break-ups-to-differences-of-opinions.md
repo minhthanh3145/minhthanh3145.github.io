@@ -1,7 +1,7 @@
 ---
 title: "[Crucial Conversations] People often attribute break-ups to differences of opinions"
 date: "2019-10-18"
-categories:
+tags:
   - "book-notes"
 layout: post
 subclass: post
