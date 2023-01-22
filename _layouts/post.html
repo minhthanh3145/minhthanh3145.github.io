@@ -40,9 +40,9 @@ class: 'post-template'
                 on
                 {% for tag in page.tags %}
                     {% if forloop.index == page.tags.size %}
-                       <a href="">{{ tag | capitalize }}</a>
+                       <a href="" style="color:blue">{{ tag | capitalize }}</a>
                     {% else %}
-                       <a href="">{{ tag | capitalize }}</a>,
+                       <a href="" style="color:blue">{{ tag | capitalize }}</a>,
                     {% endif %}
                 {% endfor %}
                 {% endif %}
