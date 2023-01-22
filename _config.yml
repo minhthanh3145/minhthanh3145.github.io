@@ -13,7 +13,7 @@ language: 'en-uk'
 
 # Website info
 name: 'Dafuq is that'
-description: "Product Management meets PKM"
+description: "Curiosity-driven product Management"
 
 # Permalinks
 permalink: /:title
