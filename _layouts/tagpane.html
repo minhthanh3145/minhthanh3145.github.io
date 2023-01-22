@@ -2,9 +2,7 @@
 layout: default
 cover: 'assets/images/cover1.jpg'
 class: 'tag-template'
-navigation: True
-logo: 'assets/images/ghost.png'
-current: tag
+navigation: true
 ---
 
 <!-- If we have a tag cover, display that - else blog cover - else nothing -->
@@ -21,8 +19,6 @@ current: tag
           <h2 class="page-description">
           {% if tag_description %}
               {{ tag_description }}
-          {% elsif page.tag %}
-        A {{ paginator.total_posts }}-post collection
           {% endif %}
           </h2>
       </div>

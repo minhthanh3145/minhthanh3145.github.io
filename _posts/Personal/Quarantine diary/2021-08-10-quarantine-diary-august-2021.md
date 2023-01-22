@@ -5,9 +5,10 @@ layout: post
 subclass: post
 navigation: "true"
 tags:
-    - quarantine-diary
-    - personal
+  - quarantine-diary
+  - personal
 cover: "assets/images_1/pexels-photo-2156881.jpeg"
+hidden: true
 ---
 
 ## Introduction

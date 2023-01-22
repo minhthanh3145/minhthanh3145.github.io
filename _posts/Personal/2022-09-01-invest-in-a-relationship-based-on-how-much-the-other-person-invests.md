@@ -7,6 +7,7 @@ layout: post
 subclass: post
 navigation: "true"
 cover: assets/images_1/
+hidden: true
 ---
 
 I recently watched a Youtube video with a rather clickbaity title - [Stop Being A Nice Guy Or You Will Regret It](https://www.youtube.com/watch?v=0Sr94ln08zc&ab_channel=MotivationMadness). The content turned out to be more interesting than what the title suggests. There's a line in it which I thought was interesting: "Don't invest in someone based on how much you like them, invest based on how much they invest in you".

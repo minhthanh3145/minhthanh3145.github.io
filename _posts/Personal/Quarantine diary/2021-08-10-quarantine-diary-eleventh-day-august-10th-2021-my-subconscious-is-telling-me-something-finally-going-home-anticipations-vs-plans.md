@@ -5,9 +5,10 @@ layout: post
 subclass: post
 navigation: "true"
 tags:
-    - quarantine-diary
-    - personal
+  - quarantine-diary
+  - personal
 cover: assets/images_1/
+hidden: true
 ---
 
 Today is the 11th day I spend in this quarantine facility. I couldn't sleep properly last night because I keep having this weird, singular thought, which is not exactly hope, that tomorrow may really be the day. It is not hope because it doesn't capture and direct my mind towards these images of what I think will happen, at least yet. Instead, the sleeplessness comes from a single thought: that tomorrow may be the day.

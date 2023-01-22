@@ -7,6 +7,7 @@ image: "_posts/images/pexels-photo-4871011.jpeg"
 # layout: post
 subclass: post
 navigation: "true"
+hidden: true
 ---
 
 There was a protagonist who sacrificed his existence to save the world from a villain that vows to destroy it because the only person he love was taken away, forcefully.

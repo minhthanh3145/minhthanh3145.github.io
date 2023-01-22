@@ -10,6 +10,7 @@ layout: post
 subclass: post
 navigation: "true"
 cover: "assets/images_1/1_i1me0vg6mcevejehi4ha0w.jpeg"
+hidden: true
 ---
 
 **Disclaimer:** This is my interpretation on the first chapter of Albert Camus's The Myth of Sisyphus. It is a difficult to read, so flaws are unavoidable. Also, I was not suicidal when I sought and read the book :)

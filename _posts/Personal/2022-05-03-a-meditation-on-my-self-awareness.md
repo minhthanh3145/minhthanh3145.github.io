@@ -6,6 +6,7 @@ subclass: post
 tags:
   - "personal"
 navigation: "true"
+hidden: true
 ---
 |-
   _Note:_ This may get a bit personal. I really didn't write it thinking that it might help you in any way. It's one of those selfish blog posts that the authors dedicate to no one but themselves. But I welcome all readership.
@@ -22,5 +23,5 @@ navigation: "true"
 
   Why is it that I made an analogy between having self-awareness and looking at a bunch of cockroaches? To look at oneself, with true honesty, is to see in oneself all the atrocities and calamity committed by human beings throughout history, and to say with absolute conviction that, it could have easily been me who killed all these people. I can, in fact, manipulate and hurt other people, I can ruin their lives physically and psychologically. I can do all of these things because I am human, and that's the sort of things human beings are capable of. That awareness is enough to make the bravest vomit in disgust and contempt, convulse and embrace oneself like an embryo yearning to get back to its mother's womb - a paradise in which everyone was once innocent. Yeah, it's worse than cockroaches. It's much worse than that.
   But why do I have nothing but self-awareness? What do people "have"? What does "have" mean, exactly? For me, it must be something that remains when everything else crumbles away. What can you forcibly take away from a man while keeping himself intact? For me, the answer is his self awareness. Because I experienced moments in my life where absolutely everything else besides my own self-awareness betrayed me, that was the only answer that I could come up. It stood the test of time, and of whatever else the universe has managed to conjure up and throw at me.
-  
+
   Therefore, even though it is nothing to be proud of, I was endeared by my self-awareness.

@@ -8,6 +8,7 @@ layout: post
 subclass: post
 navigation: "true"
 cover: "assets/images_1/0_u986rzvwg0frhb_a.jpeg"
+hidden: true
 ---
 
 **Disclaimer**: This blog post, unfortunately, contains spoilers about the movie [Departures (2008)](https://en.wikipedia.org/wiki/Departures_(2008_film)).

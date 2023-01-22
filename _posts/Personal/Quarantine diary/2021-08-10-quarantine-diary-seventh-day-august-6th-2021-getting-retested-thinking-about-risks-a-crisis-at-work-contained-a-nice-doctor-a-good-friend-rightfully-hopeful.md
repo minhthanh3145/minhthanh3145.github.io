@@ -5,9 +5,10 @@ layout: post
 subclass: post
 navigation: "true"
 tags:
-    - quarantine-diary
-    - personal
+  - quarantine-diary
+  - personal
 cover: assets/images_1/
+hidden: true
 ---
 
 This is the 7th day I spend at the quarantine facility. I asked the medical staff who came to visit the room and measured the oxygen saturation level and it seems that people usually get tested in the morning. The first step to going home is getting retested, so I was looking forward to that today. I don't know how it works, but I suspect those who will get tested will be informed and gathered in a focused space downstairs? Of course, it's only a guess, and they may as well go room by room, which means it simply is not my turn yet. I am kinda frustrated at this point because the medical staff mentioned that it usually takes 8 days before I can get re-tested. This means that I may have to be here for at least another 3 days, taking into account the 2 days it takes for the result to get back.

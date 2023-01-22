@@ -11,6 +11,7 @@ tags:
 # layout: post
 subclass: post
 navigation: "true"
+hidden: true
 ---
 
 **Table of contents**

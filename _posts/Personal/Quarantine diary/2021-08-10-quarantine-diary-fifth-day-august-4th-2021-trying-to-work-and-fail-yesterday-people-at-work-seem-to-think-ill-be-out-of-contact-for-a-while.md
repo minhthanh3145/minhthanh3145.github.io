@@ -5,9 +5,10 @@ layout: post
 subclass: post
 navigation: "true"
 tags:
-    - quarantine-diary
-    - personal
+  - quarantine-diary
+  - personal
 cover: assets/images_1/
+hidden: true
 ---
 
 This is the fifth day of my quarantine. I should have started journaling sooner. But for the past few days, I was still in the mindset of wishing some miracles do happen, that I'll go home today. Today is the day. This is it. Naturally, I thought that I'd better not start any routine that might not last.

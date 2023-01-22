@@ -5,9 +5,10 @@ layout: post
 subclass: post
 navigation: "true"
 tags:
-    - quarantine-diary
-    - personal
+  - quarantine-diary
+  - personal
 cover: assets/images_1/
+hidden: true
 ---
 
 ## Free from anticipations

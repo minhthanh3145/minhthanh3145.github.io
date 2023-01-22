@@ -13,10 +13,8 @@
     {% endif %}
 </div>
 
-<!-- This is the post loop - each post will be output using this markup -->
 {% for post in paginator.posts %}
-{% if post.tags contains 'personal' %}
-{% else %}
+<div>{{post.tags}}</div>
 <article class="post">
     <header class="post-header">
         <h2 class="post-title"><a href="{{ site.url }}{{ post.url | remove: '/' }}">{{ post.title }}</a></h2>
@@ -52,7 +50,6 @@
             date_to_string }}</time>
     </footer>
 </article>
-{% endif %}
 {% endfor %}
 
 <!-- Previous/next page links - displayed on every page -->

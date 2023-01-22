@@ -5,9 +5,10 @@ layout: post
 subclass: post
 navigation: "true"
 tags:
-    - quarantine-diary
-    - personal
+  - quarantine-diary
+  - personal
 cover: assets/images_1/
+hidden: true
 ---
 
 Today is my 8th day in this quarantine facility. I woke up to the sound of someone knocking on my door. I've been living in a small room, separated from the common area of the apartment that I share with 6 other people. The apartment has 3 rooms, one is the living room or the common area, one with its own toilet and the other is where I live in. The knock on the door was to signal that breakfast is here. In this facility, breakfast is served usually around 7:30 AM. Today feels like a slow day, probably because it's Saturday.

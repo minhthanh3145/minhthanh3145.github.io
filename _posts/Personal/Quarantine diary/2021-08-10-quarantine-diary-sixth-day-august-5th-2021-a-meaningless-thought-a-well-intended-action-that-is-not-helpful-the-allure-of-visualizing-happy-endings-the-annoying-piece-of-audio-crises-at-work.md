@@ -5,9 +5,10 @@ layout: post
 subclass: post
 navigation: "true"
 tags:
-    - quarantine-diary
-    - personal
+  - quarantine-diary
+  - personal
 cover: assets/images_1/
+hidden: true
 ---
 
 Today is my sixth day in this quarantine facility. I start to settle on a routine, which I hope will be ephemeral. I wake up at 6:30 AM, which is way earlier than I would have at home. Breakfast comes at 7:30 AM. I'd take a shower at 9:00 AM, and then open my laptop and start reading HakoMari.

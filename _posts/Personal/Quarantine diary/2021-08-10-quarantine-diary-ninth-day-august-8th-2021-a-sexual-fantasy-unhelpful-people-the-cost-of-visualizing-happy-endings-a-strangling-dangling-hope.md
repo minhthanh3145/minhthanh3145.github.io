@@ -5,9 +5,10 @@ layout: post
 subclass: post
 navigation: "true"
 tags:
-    - quarantine-diary
-    - personal
+  - quarantine-diary
+  - personal
 cover: assets/images_1/
+hidden: true
 ---
 
 Today is my 9th day in quarantine. I can't help but look forward to leaving here. If everything goes right, I can leave here today. After all, I was retested 2 days ago, so the results should be back by now, ideally. Today is Sunday, so leaving here today would allow me to start the next week afresh, which is a huge psychological advantage. I think that going home on Monday would somehow taint the week, even though the effect is probably negligible.

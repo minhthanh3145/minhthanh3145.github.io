@@ -6,6 +6,7 @@ tags:
 # layout: post
 subclass: post
 navigation: "true"
+hidden: true
 ---
 |-
   When you're in pain, you tend to seek distraction.

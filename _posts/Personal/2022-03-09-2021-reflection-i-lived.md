@@ -9,6 +9,7 @@ tags:
 subclass: post
 navigation: "true"
 cover: "assets/images_1/maxresdefault.jpeg"
+hidden: true
 ---
 
 This is a long due reflection blog post. It's already March, and so you can even say that it's long overdue. I wrote the first draft during the last days of 2021, but life get in the way and I haven't got a chance to review and edit since then. But it will surely bug me if I don't publish it, so here it goes.

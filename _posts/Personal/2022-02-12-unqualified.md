@@ -7,6 +7,7 @@ tags:
 subclass: post
 navigation: "true"
 cover: "assets/images_1/pexels-photo-5152102.jpeg"
+hidden: true
 ---
 
 During a recent conversation, I was told (in a very constructive way) that the phrasing **"not qualified to be something" seems to be a bit offensive**. I used that phrase in a recount of my analysis regarding another conversation in which I rejected the notion that a particular person is capable of doing a particular thing. Just FYI, the people who gave me feedback were not on the receiving end of that rejection.

@@ -10,6 +10,7 @@ layout: post
 subclass: post
 navigation: "true"
 cover: "assets/images_1/1_yjpa-o_eswotopnmvflbka.jpeg"
+hidden: true
 ---
 
 This is my interpretation on the chapter "Be precise in your speech" in [12 rules for life by Jordan Peterson](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021).
