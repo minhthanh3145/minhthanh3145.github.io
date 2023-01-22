@@ -13,7 +13,7 @@ language: 'en-uk'
 
 # Website info
 name: 'Dafuq is that'
-description: "Curiosity-driven product Management"
+description: "A product manager searching for competitive advantages for himself, others and organizations"
 
 # Permalinks
 permalink: /:title
