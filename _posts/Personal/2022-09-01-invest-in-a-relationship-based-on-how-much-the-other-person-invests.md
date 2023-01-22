@@ -1,7 +1,7 @@
 ---
 title: "Invest in a relationship based on how much the other person invests"
 date: "2022-09-01"
-categories:
+tags:
   - "personal"
 layout: post
 subclass: post

@@ -4,6 +4,7 @@ date: "2022-03-09"
 tags:
   - "2021"
   - "reflection"
+  - "personal"
 # layout: post
 subclass: post
 navigation: "true"

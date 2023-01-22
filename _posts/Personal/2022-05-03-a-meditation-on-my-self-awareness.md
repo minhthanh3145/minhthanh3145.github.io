@@ -3,6 +3,8 @@ title: "A meditation on my self-awareness"
 date: "2022-05-03"
 # layout: post
 subclass: post
+tags:
+  - "personal"
 navigation: "true"
 ---
 |-

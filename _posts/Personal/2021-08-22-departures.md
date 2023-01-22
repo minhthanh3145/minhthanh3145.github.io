@@ -1,10 +1,9 @@
 ---
 title: "Departures (2008) - How Death makes you Reconsider Life, and How Mentally Simulating the Deaths of your Frameworks can improve Cognitive Agility"
 date: "2021-08-22"
-categories:
-  - "personal"
 tags:
   - "jordan-peterson"
+  - "personal"
 layout: post
 subclass: post
 navigation: "true"

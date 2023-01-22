@@ -6,6 +6,7 @@ subclass: 'post'
 date: "2021-11-14"
 tags:
   - "jordan-peterson"
+  - "personal"
 ---
 
 Nature is like this: everything changes it shape according to your nature. It is what lurks beneath our actions and our intentions.

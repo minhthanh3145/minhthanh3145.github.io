@@ -1,9 +1,9 @@
 ---
 title: "Unqualified"
 date: "2022-02-12"
-categories:
+tags:
   - "personal"
-layout: post
+# layout: post
 subclass: post
 navigation: "true"
 cover: "assets/images_1/pexels-photo-5152102.jpeg"

@@ -5,6 +5,7 @@ categories:
   - "book-notes"
 tags:
   - "philosophy"
+  - "personal"
 layout: post
 subclass: post
 navigation: "true"
