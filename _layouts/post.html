@@ -40,7 +40,7 @@ class: 'post-template'
                 on
                 {% for tag in page.tags %}
                     {% if forloop.index == page.tags.size %}
-                       <div'>{{ tag | capitalize }}</div>
+                       <div>{{ tag | capitalize }}</div>
                     {% else %}
                        <div>{{ tag | capitalize }}</div>,
                     {% endif %}
