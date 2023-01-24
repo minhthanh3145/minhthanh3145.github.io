@@ -1,3 +1,13 @@
+---
+title: "2022 reflection as a product manager"
+date: "2023-01-24"
+tags:
+  - "product-management"
+layout: post
+subclass: post
+navigation: "true"
+---
+
 # 2022 reflection as a product manager
 ## Introduction
 
