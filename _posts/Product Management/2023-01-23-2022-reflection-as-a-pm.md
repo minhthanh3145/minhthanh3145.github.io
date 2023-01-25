@@ -57,7 +57,7 @@ We were able to get buy-in from other product managers to proceed. The product d
 
 In order to de-risk the experiment, the dialog was rolled out to just 20% of our new users. It helped us detect issues in a controlled manner. Early signals showed that both completion rate and time on task were improved. We rolled it out to 50% of new users. The task completion rate almost doubled, and users on average complete the task 10 seconds faster using the new dialog. It was a simple idea (analyzing the user journey, guess which point creates frictions and create a solution), but it brought great results.
 
-But even when it's difficult, focus on doing simple things anyway.
+Even when it's difficult, focus on doing simple things anyway.
 
 ## Conclusion
 
