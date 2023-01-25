@@ -11,7 +11,9 @@ navigation: "true"
 
 Hi there, thank you for being here, at this point in time and space.
 
-I spent the past few days thinking about what I've learned over the past year. In 2021, I stretched my thinking on thorny topics such as [product strategy](https://minhthanh3145.github.io/my-take-on-product-strategy), [enabling context](https://minhthanh3145.github.io/get-everyone-out-of-the-building-or-how-product-managers-are-like-fire-fighters) and [synthesizing how frameworks may be combined](https://minhthanh3145.github.io/how-product-development-frameworks-work-together-to-enable-actions). But I didn't write a single blog post in 2022, because I wanted to move away from abstraction and synthesis and get closer to more simple ideas. So far, I've been able to take some simple ideas very seriously. I'd like to use this blog post to ruminate on such thoughts, which hopefully are going to be helpful to you.
+I spent the past few days thinking about what I've learned over the past year. In 2021, I stretched my thinking on thorny topics such as [product strategy](https://minhthanh3145.github.io/my-take-on-product-strategy), [enabling context](https://minhthanh3145.github.io/get-everyone-out-of-the-building-or-how-product-managers-are-like-fire-fighters) and [synthesizing how frameworks may be combined](https://minhthanh3145.github.io/how-product-development-frameworks-work-together-to-enable-actions). 
+
+But I didn't write a single blog post in 2022, because I wanted to move away from abstraction and synthesis and get closer to more simple ideas. Specifically, I want to put simple things into practice, extensively. So far, I've been able to take some simple ideas very seriously. I think of that as a great success, and I'd like to use this blog post to ruminate on such thoughts, which hopefully are going to be helpful to readers in some way.
 
 ## Make it easy to do simple things
 
@@ -25,7 +27,7 @@ What made me more willing to act on the bet was that the ability to dynamically 
 
 To summarize, I'd like to borrow a principle from the manufacturing world: 
 
-> [Lower the transaction cost, and you would make it more economically sensible to work in small batches](https://zsoltfabok.com/blog/2013/03/the-optimal-batch-size/)
+> [Lower the transaction cost (cost of setting up to do something), and you would make it more economically sensible to work in small batches (actually doing that something)](https://zsoltfabok.com/blog/2013/03/the-optimal-batch-size/)
 
 ![](https://ptgmedia.pearsoncmg.com/images/chap3_9780134892863/elementLinks/24fig02_alt.jpg)
 
