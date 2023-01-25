@@ -44,6 +44,8 @@ But you need to do simple things anyway. In fact, I'd argue that in an organizat
 
 Take the above example: improve the onboarding flow and activation increases. As an avid reader and a product manager, I am aware of how obvious that sounds. There are a lot of practical questions you have to answer. Some are essential questions, like "what is the definition of your Aha moment?". But in all honesty, just pick your best guess and go with it. Then learn from data and iterate again. My initial definition of Aha moment was ridiculously simple. But after just a handful of iterations, we got great results.
 
+Let me share another story about a simple idea.
+
 A few months ago, we decided to improve a particular dialog within the platform that people use to schedule their tests (our product is a software quality platform). After examining historical data and the user journey when they first come to the platform, we determined that a huge friction point would be when users schedule their first tests. The old dialog induced small but numerous cognitive loads on the users to complete the task. Our bet was that reducing these cognitive loads would mean a higher task completion rate and thus a higher activation rate.
 
 But scheduling tests is something people would use a lot throughout their adoption. Plus, many functionalities on that dialog belong to other modules owned by other product managers. And my team were not the original owner of the dialog. These factors amount to a certain degree of reluctance. We had to pitch our hypothesis to other teams to get them to see that the problem was worth solving.
