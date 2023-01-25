@@ -15,7 +15,7 @@ I spent the past few days thinking about what I've learned over the past year. I
 
 But I didn't write a single blog post in 2022, because I wanted to move away from abstraction and synthesis and get closer to more simple ideas. Specifically, I want to put simple things into practice, extensively. So far, I've been able to take some simple ideas very seriously. And I think of that as a great success.
 
-I won't go into too much details or nuances, I just want to circle around and re-iterate the central theme of this blog post. That it isn't easy to do simple things, but try to make it easy. When it's difficult, re-organize yourself and the team in whatever ways necessary so that you can still focus on doing simple things.
+I won't go into too much details or nuances, I just want to circle around and re-iterate the central theme of this blog post. That it isn't easy to do simple things, but you should try to make it easy. Even when it's difficult, re-organize yourself and the team in whatever ways necessary so that you can still focus on doing simple things.
 
 ## Make it easy to do simple things
 
