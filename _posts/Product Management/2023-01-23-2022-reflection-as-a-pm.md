@@ -31,8 +31,9 @@ To summarize, I'd like to borrow a principle from the manufacturing world:
 
 ![](https://ptgmedia.pearsoncmg.com/images/chap3_9780134892863/elementLinks/24fig02_alt.jpg)
 
-Or in a more PM-friendly language, lower the cost of doing experiments by using tools that let you modify parts of the products easily, and you would be more naturally inclined to do more experiments. Sometimes, a quick experiment can produce a quick win that justifies more costly experiments, especially if you're in a more conservative environment. And experiments sound heavy. They're not. They're often very simple things that we think can work. Make it easy to do simple things.
+Or in a more PM-friendly language, lower the cost of doing experiments by using tools that let you modify parts of the products easily, and you would be more naturally inclined to do more experiments. Sometimes, a quick experiment can produce a quick win that justifies more costly experiments, especially if you're in a more conservative environment. And experiments may sound heavy. They're really not. They're often very simple things that we think can work. 
 
+Make it easy to do simple things.
 
 ## But even when it's difficult, focus on doing simple things anyway
 
@@ -54,9 +55,9 @@ But scheduling tests is something people would use a lot throughout their adopti
 
 We were able to get buy-in from other product managers to proceed. The product designer was given the problem statement, business constraints (time, what problem we will not solve, etc.) and, most importantly, the freedom to craft solutions. A handful of prototypes were created and reviewed together. Ultimately, we settled on a version that addresses the most important problems in the original design.
 
-In order to de-risk the experiment, the dialog was rolled out to just 20% of our new users. It helped us detect issues in a controlled manner. Early signals showed that both completion rate and time on task were improved. We rolled it out to 50% of new users. The task completion rate almost doubled, and users on average complete the task 10 seconds faster using the new dialog. It was a clear win.
+In order to de-risk the experiment, the dialog was rolled out to just 20% of our new users. It helped us detect issues in a controlled manner. Early signals showed that both completion rate and time on task were improved. We rolled it out to 50% of new users. The task completion rate almost doubled, and users on average complete the task 10 seconds faster using the new dialog. It was a simple idea (analyzing the user journey, guess which point creates frictions and create a solution), but it brought great results.
 
-It was a simple idea (analyzing the user journey, guess which point creates frictions and create a solution), but it brought great results.
+But even when it's difficult, focus on doing simple things anyway.
 
 ## Conclusion
 
