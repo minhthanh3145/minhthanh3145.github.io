@@ -69,7 +69,7 @@ Even when it's difficult, focus on doing simple things anyway.
 
 ## Conclusion
 
-2022 was a great year for me, both professionally and personally. I think embracing simple ideas seriously definitely helped with my career. I’ve come to embrace more the complexity and uncertainty of product management, while developing and enriching mental models based on both experiences and absorbing other people’s works.
+2022 was a great year for me, both professionally and personally. I think embracing simple ideas seriously helped accelerate my career and impact a lot. I’ve come to embrace more the complexity and uncertainty of product management, while developing and enriching mental models based on both experiences and absorbing other people’s works.
 
 Finally, I've grown a lot in a short period of time by taking on a lot of responsibilities, but I also experienced a lot of stress. While it's still manageable, I think in the long run it wouldn't be appropriate. That's why starting next year, I want to aim at creating sustainable infrastructures around my work so that I can support myself and other people better as a product manager. 
 
