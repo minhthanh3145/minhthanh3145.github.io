@@ -9,13 +9,15 @@ subclass: post
 navigation: "true"
 ---
 
-Hi there, thank you for being here, at this point in time and space. I spent the past few days thinking about what I've learned over the past year. In 2021, I stretched my thinking on thorny topics such as product strategy and enabling context. In 2022, I've been able to take some simple ideas very seriously.
+Hi there, thank you for being here, at this point in time and space.
+
+I spent the past few days thinking about what I've learned over the past year. In 2021, I stretched my thinking on thorny topics such as product strategy and enabling context. In 2022, I've been able to take some simple ideas very seriously. I'd like to use this blog post to ruminate on these simple ideas and their applications.
 
 ## Make it easy to do simple things
 
-When you're working on a product within a platform, the most impactful thing may lie outside your product, especially when your product is technical and thus difficult to explain (e.g a cloud infrastructure system). You may have to work on user journeys that span across different modules in the platform to make people even aware that your product exists.
+When you're working within a platform, the most impactful thing may lie outside your direct area of authority, especially when the product is technical and without a user interface (e.g a cloud infrastructure system). You may have to touch on user journeys that span across different modules in the platform to make people even aware that your product exists.
 
-Earlier this year, I was concerned with launching a new product within our platform and facilitating its GTM movement. Several months thereafter, we sat down to review what were the leverage points that could unblock thought. The product's presence within the platform was weak, and its activation rate wasn't satisfying. Now, these two things could have been unrelated, but I made a hypothesis: If people don't know about a product, naturally they would be activated.
+Earlier this year, I was concerned with launching a new product within our platform and facilitating its GTM movement. Several months later, we sat down to review what were the leverage points that could unblock growth. The product's presence within the platform was weak, and its activation rate wasn't satisfying. Admittedly, these two things could have been unrelated, but I made a hypothesis that they were related: If people don't know about a product, naturally they would be activated.
 
 I shared the hypothesis with the team and got buy-ins from other PMs to change the platform's onboarding flow to one that guides users to perform a core action in my product. The monthly usage increased almost four times. And ARR showed a significant increase. Some might even say that it was obviously going to work. But to me, it definitely wasn't obvious until we observed the result.
 
@@ -44,7 +46,7 @@ Take the above example: improve the onboarding flow and activation increases. As
 
 A few months ago, we decided to improve a particular dialog within the platform that people use to schedule their tests (our product is a software quality platform). After examining historical data and the user journey when they first come to the platform, we determined that a huge friction point would be when users schedule their first tests. The old dialog induced small but numerous cognitive loads on the users to complete the task. Our bet was that reducing these cognitive loads would mean a higher task completion rate and thus a higher activation rate.
 
-But scheduling tests is something people would use a lot throughout their adoption. Plus, many functionalities on that dialog belong to other modules owned by other product managers. These factors amount to a certain degree of reluctance. We had to pitch our hypothesis to other teams to get them to see that the problem was worth solving.
+But scheduling tests is something people would use a lot throughout their adoption. Plus, many functionalities on that dialog belong to other modules owned by other product managers. And my team were not the original owner of the dialog. These factors amount to a certain degree of reluctance. We had to pitch our hypothesis to other teams to get them to see that the problem was worth solving.
 
 We were able to get buy-in from other product managers to proceed. The product designer was given the problem statement, business constraints (time, what problem we will not solve, etc.) and, most importantly, the freedom in crafting solutions. A handful of prototypes were created and reviewed together. Ultimately, we settled on a version that addresses the most important problems in the original design.
 
