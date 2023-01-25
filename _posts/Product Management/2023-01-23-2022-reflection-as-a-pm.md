@@ -20,7 +20,9 @@ What made me more willing to act on the bet was that the ability to dynamically 
 
 To summarize, I'd like to borrow a principle from the manufacturing world: 
 
-> Lower the transaction cost, and you would make it more economically sensible to work in small batches
+> [Lower the transaction cost, and you would make it more economically sensible to work in small batches](https://zsoltfabok.com/blog/2013/03/the-optimal-batch-size/)
+
+![](https://ptgmedia.pearsoncmg.com/images/chap3_9780134892863/elementLinks/24fig02_alt.jpg)
 
 Or in a more PM-friendly language, lower the cost of doing experiments by using tools that let you modify parts of the products easily, and you would be more naturally inclined to do more experiments. Sometimes, a quick experiment can produce a quick win that justifies more costly experiments, especially if you're in a more conservative environment. And experiments sound heavy. They're not. They're often very simple things that we think can work. Make it easy to do simple things.
 
@@ -32,6 +34,8 @@ Taking simple ideas seriously can be the path to huge impacts. But the difficult
 Perhaps your company isn't one with a culture of trial-and-error. Perhaps your product and engineering departments don't get along with one another which makes shipping minimum viable changes difficult. Perhaps you don't feel like you want to learn to navigate organizational complexity and politics at this point in your career. Or all of these things may happen at the same thing.
 
 But you need to do simple things anyway. In fact, I'd argue that in an organization with more constraints, doing simple things would create more impact because the collective mind would likely be imbued with organizational complexity and thus lose focus on simple ideas.
+
+![](https://cdn.dribbble.com/users/301857/screenshots/9802204/media/1eaadcb31000b028e7ad6a31a2be6e3f.png)
 
 Take the above example: improve the onboarding flow and activation increases. As an avid reader and a product manager, I am aware of how obvious that sounds. There are a lot of practical questions you have to answer. Some are essential questions, like "what is the definition of your Aha moment?". But in all honesty, just pick your best guess and go with it. Then learn from data and iterate again. My initial definition of Aha moment was ridiculously simple. But after just a handful of iterations, we got great results.
 
