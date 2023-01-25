@@ -13,7 +13,9 @@ Hi there, thank you for being here, at this point in time and space.
 
 I spent the past few days thinking about what I've learned over the past year. In 2021, I stretched my thinking on thorny topics such as [product strategy](https://minhthanh3145.github.io/my-take-on-product-strategy), [enabling context](https://minhthanh3145.github.io/get-everyone-out-of-the-building-or-how-product-managers-are-like-fire-fighters) and [synthesizing how frameworks may be combined](https://minhthanh3145.github.io/how-product-development-frameworks-work-together-to-enable-actions). 
 
-But I didn't write a single blog post in 2022, because I wanted to move away from abstraction and synthesis and get closer to more simple ideas. Specifically, I want to put simple things into practice, extensively. So far, I've been able to take some simple ideas very seriously. I think of that as a great success, and I'd like to use this blog post to ruminate on these ideas, which hopefully are going to be helpful to readers in some way.
+But I didn't write a single blog post in 2022, because I wanted to move away from abstraction and synthesis and get closer to more simple ideas. Specifically, I want to put simple things into practice, extensively. So far, I've been able to take some simple ideas very seriously. And I think of that as a great success.
+
+I won't go into too much details or nuances, I just want to circle around and re-iterate the central theme of this blog post. That it isn't easy to do simple things, but try to make it easy. When it's difficult, re-organize yourself and the team in whatever ways necessary so that you can still focus on doing simple things.
 
 ## Make it easy to do simple things
 
@@ -51,7 +53,7 @@ But you need to do simple things anyway. In fact, I'd argue that in an organizat
 
 Take the above example: improve the onboarding flow and activation increases. As an avid reader and a product manager, I am aware of how obvious that sounds. There are a lot of practical questions you have to answer. Some are essential questions, like "what is the definition of your Aha moment?". But in all honesty, just pick your best guess and go with it. Then learn from data and iterate again. My initial definition of Aha moment was ridiculously simple. But after just a handful of iterations, we got great results.
 
-Let me share another story about a simple idea.
+Let me share another story about simple ideas.
 
 A few months ago, we decided to improve a particular dialog within the platform that people use to schedule their tests (our product is a software quality platform). After examining historical data and the user journey when they first come to the platform, we determined that a huge friction point would be when users schedule their first tests. The old dialog induced small but numerous cognitive loads on the users to complete the task. Our bet was that reducing these cognitive loads would mean a higher task completion rate and thus a higher activation rate.
 
@@ -59,7 +61,9 @@ But the act of scheduling is something people would engage in repeatedly even af
 
 We were able to get buy-in from other product managers to proceed. The product designer was given the problem statement, business constraints (time, what problem we will not solve, etc.) and, most importantly, the freedom to exercise their craft in the solution space. A handful of prototypes were created and reviewed together. Ultimately, we settled on a version that addresses the most important problems in the original design.
 
-In order to de-risk the experiment, the dialog was rolled out to just 20% of our new users. It helped us detect issues in a controlled manner. Early signals showed that both completion rate and time on task were improved. We rolled it out to 50% of new users. The task completion rate almost doubled, and users on average complete the task 10 seconds faster using the new dialog. It was a simple idea (analyzing the user journey, guess which point creates frictions and create a solution), but it brought great results.
+In order to de-risk the experiment, the dialog was rolled out to just 20% of our new users. It helped us detect issues in a controlled manner. Early signals showed that both completion rate and time on task were improved. We rolled it out to 50% of new users. The task completion rate almost doubled, and users on average complete the task 10 seconds faster using the new dialog. 
+
+It was a simple set of ideas (analyzing the user journey, guess which point creates frictions and derive a solution), but it brought great results. There are of course always nuances when you put them into practice. It's not easy. But it is simple.
 
 Even when it's difficult, focus on doing simple things anyway.
 
