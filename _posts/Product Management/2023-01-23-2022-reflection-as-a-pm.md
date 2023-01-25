@@ -4,7 +4,7 @@ date: "2023-01-24"
 tags:
   - "product-management"
 layout: post
-cover: "assets/images1/2022-reflection-blog-post-cover.jpg"
+cover: "assets/images/2022-reflection-blog-post-cover.jpg"
 subclass: post
 navigation: "true"
 ---
