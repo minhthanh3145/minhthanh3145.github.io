@@ -36,7 +36,7 @@ Or in a more PM-friendly language, lower the cost of doing experiments by using 
 
 ## But even when it's difficult, focus on doing simple things anyway
 
-Taking simple ideas seriously can be the path to huge impacts. But the difficulty comes from the fact that everything in a company is situated within organizational, interpersonal and personal constrains that are reflective of the reality in which it manifests.
+Taking simple ideas seriously can be the path to impacts. But the difficulty comes from the fact that everything in a company is situated within organizational, interpersonal and personal constrains that are reflective of the reality in which it manifests.
 
 Perhaps your company isn't one with a culture of trial-and-error. Perhaps your product and engineering departments don't get along with one another, which makes shipping minimum viable changes difficult. Perhaps you don't feel like you want to learn to navigate organizational complexity and politics at this point in your career. Or all of these things may happen at the same thing.
 
@@ -52,9 +52,11 @@ A few months ago, we decided to improve a particular dialog within the platform 
 
 But scheduling tests is something people would use a lot throughout their adoption. Plus, many functionalities on that dialog belong to other modules owned by other product managers. And my team were not the original owner of the dialog. These factors amount to a certain degree of reluctance. We had to pitch our hypothesis to other teams to get them to see that the problem was worth solving.
 
-We were able to get buy-in from other product managers to proceed. The product designer was given the problem statement, business constraints (time, what problem we will not solve, etc.) and, most importantly, the freedom in crafting solutions. A handful of prototypes were created and reviewed together. Ultimately, we settled on a version that addresses the most important problems in the original design.
+We were able to get buy-in from other product managers to proceed. The product designer was given the problem statement, business constraints (time, what problem we will not solve, etc.) and, most importantly, the freedom to craft solutions. A handful of prototypes were created and reviewed together. Ultimately, we settled on a version that addresses the most important problems in the original design.
 
 In order to de-risk the experiment, the dialog was rolled out to just 20% of our new users. It helped us detect issues in a controlled manner. Early signals showed that both completion rate and time on task were improved. We rolled it out to 50% of new users. The task completion rate almost doubled, and users on average complete the task 10 seconds faster using the new dialog. It was a clear win.
+
+It was a simple idea (analyzing the user journey, guess which point creates frictions and create a solution), but it brought great results.
 
 ## Conclusion
 
