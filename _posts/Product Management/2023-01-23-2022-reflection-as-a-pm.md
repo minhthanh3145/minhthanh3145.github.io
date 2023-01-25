@@ -45,7 +45,7 @@ Taking simple ideas seriously can be the path to impacts. But the difficulty com
 
 Perhaps your company isn't one with a culture of trial-and-error. Perhaps your product and engineering departments don't get along with one another, which makes shipping minimum viable changes difficult. Perhaps you don't feel like you want to learn to navigate organizational complexity and politics at this point in your career. Or all of these things may happen at the same time.
 
-But you need to do simple things anyway. In fact, I'd argue that in an organization with more constraints, doing simple things would create more impact because the collective mind would likely be imbued with organizational complexity and thus lose focus on simple ideas.
+But you need to do simple things anyway. In fact, I'd argue that in an organization with more constraints, doing simple things would create more impact because the collective would likely be too concerned with organizational complexity and lose focus on simple ideas.
 
 ![](https://cdn.dribbble.com/users/301857/screenshots/9802204/media/1eaadcb31000b028e7ad6a31a2be6e3f.png)
 
@@ -55,9 +55,9 @@ Let me share another story about a simple idea.
 
 A few months ago, we decided to improve a particular dialog within the platform that people use to schedule their tests (our product is a software quality platform). After examining historical data and the user journey when they first come to the platform, we determined that a huge friction point would be when users schedule their first tests. The old dialog induced small but numerous cognitive loads on the users to complete the task. Our bet was that reducing these cognitive loads would mean a higher task completion rate and thus a higher activation rate.
 
-But scheduling tests is something people would use a lot throughout their adoption. Plus, many functionalities on that dialog belong to other modules owned by other product managers. And my team were not the original owner of the dialog. These factors amount to a certain degree of reluctance. We had to pitch our hypothesis to other teams to get them to see that the problem was worth solving.
+But the act of scheduling is something people would engage in repeatedly even after their first tests. Many functionalities on that interface belong to other modules owned by other product managers. And my team isn't the original owner of the dialog. These factors amount to a certain degree of reluctance, both from our side and from others. But we pulled through and pitch our hypothesis to other teams to convince them that the problem was worth solving.
 
-We were able to get buy-in from other product managers to proceed. The product designer was given the problem statement, business constraints (time, what problem we will not solve, etc.) and, most importantly, the freedom to craft solutions. A handful of prototypes were created and reviewed together. Ultimately, we settled on a version that addresses the most important problems in the original design.
+We were able to get buy-in from other product managers to proceed. The product designer was given the problem statement, business constraints (time, what problem we will not solve, etc.) and, most importantly, the freedom to exercise their craft in the solution space. A handful of prototypes were created and reviewed together. Ultimately, we settled on a version that addresses the most important problems in the original design.
 
 In order to de-risk the experiment, the dialog was rolled out to just 20% of our new users. It helped us detect issues in a controlled manner. Early signals showed that both completion rate and time on task were improved. We rolled it out to 50% of new users. The task completion rate almost doubled, and users on average complete the task 10 seconds faster using the new dialog. It was a simple idea (analyzing the user journey, guess which point creates frictions and create a solution), but it brought great results.
 
