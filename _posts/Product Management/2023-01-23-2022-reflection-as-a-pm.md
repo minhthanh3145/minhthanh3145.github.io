@@ -11,7 +11,7 @@ navigation: "true"
 
 Hi there, thank you for being here, at this point in time and space.
 
-I spent the past few days thinking about what I've learned over the past year. In 2021, I stretched my thinking on thorny topics such as product strategy and enabling context. In 2022, I've been able to take some simple ideas very seriously. I'd like to use this blog post to ruminate on these simple ideas and their applications.
+I spent the past few days thinking about what I've learned over the past year. In 2021, I stretched my thinking on thorny topics such as [product strategy](https://minhthanh3145.github.io/my-take-on-product-strategy), [enabling context](https://minhthanh3145.github.io/get-everyone-out-of-the-building-or-how-product-managers-are-like-fire-fighters) and [synthesizing how frameworks may be combined](https://minhthanh3145.github.io/how-product-development-frameworks-work-together-to-enable-actions). But I didn't write a single blog post in 2022, because I wanted to move away from abstraction and synthesis and get closer to more simple ideas. So far, I've been able to take some simple ideas very seriously. I'd like to use this blog post to ruminate on such thoughts, which hopefully are going to be helpful to you.
 
 ## Make it easy to do simple things
 
