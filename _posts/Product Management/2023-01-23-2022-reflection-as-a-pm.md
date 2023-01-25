@@ -43,7 +43,7 @@ Make it easy to do simple things.
 
 Taking simple ideas seriously can be the path to impacts. But the difficulty comes from the fact that everything in a company is situated within organizational, interpersonal and personal constrains that are reflective of the reality in which it manifests.
 
-Perhaps your company isn't one with a culture of trial-and-error. Perhaps your product and engineering departments don't get along with one another, which makes shipping minimum viable changes difficult. Perhaps you don't feel like you want to learn to navigate organizational complexity and politics at this point in your career. Or all of these things may happen at the same thing.
+Perhaps your company isn't one with a culture of trial-and-error. Perhaps your product and engineering departments don't get along with one another, which makes shipping minimum viable changes difficult. Perhaps you don't feel like you want to learn to navigate organizational complexity and politics at this point in your career. Or all of these things may happen at the same time.
 
 But you need to do simple things anyway. In fact, I'd argue that in an organization with more constraints, doing simple things would create more impact because the collective mind would likely be imbued with organizational complexity and thus lose focus on simple ideas.
 
