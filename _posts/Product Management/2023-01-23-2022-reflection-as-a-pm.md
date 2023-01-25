@@ -23,7 +23,7 @@ Earlier this year, I was concerned with launching a new product within our platf
 
 I shared the hypothesis with the team and got buy-ins from other PMs to change the platform's onboarding flow to one that guides users to perform a core action in my product. The monthly usage increased almost four times. And ARR showed a significant increase. Some might even say that it was obviously going to work. But to me, it definitely wasn't obvious until we observed the result.
 
-Why didn't I do that sooner? Prior to that point, we had to focus on delivering some features that enabled completely new capabilities which were requested by many prospects. I think the positive result of the experiment were not merely due to improving the onboarding flow. Had we not delivered the features first, the impact of improving the onboarding flow could have been much less immediate. Reality is often messy like that. So while I'll keep talking about simple ideas in this blog post, they manifest in very complex and confounding ways.
+Why didn't I do that sooner? Prior to that point, we had to focus on delivering some features that enabled completely new capabilities which were requested by many prospects. I think the positive result of the experiment were not merely due to improving the onboarding flow. Had we not delivered the features first, the impact of improving the onboarding flow could have been much less immediate. Reality is often messy like that. So while I'll keep talking about simple ideas in this blog post, I'm well aware that they manifest in very complex and confounding ways.
 
 But nevertheless, it was executing a simple idea amidst of complexity that ultimately worked out well. Doing simple things does not guarantee success, but doing enough simple things would compound and increase your likelihood of success.
 
@@ -65,9 +65,9 @@ Even when it's difficult, focus on doing simple things anyway.
 
 ## Conclusion
 
-2022 was a great year for me, both professionally and personally. I think taking simple ideas very seriously was very impactful to my career. I've come to embrace more the complexity and uncertainty of product management, while developing and enriching mental models  based on both experiences and absorbing other people's works.
+2022 was a great year for me, both professionally and personally. I think embracing simple ideas seriously definitely helped with my career. I’ve come to embrace more the complexity and uncertainty of product management, while developing and enriching mental models based on both experiences and absorbing other people’s works.
 
-Furthermore, I've grown a lot in a short period of time. Next year, I want to aim at creating sustainable infrastructures around my work so that I can support myself and other people better as a product manager. 
+Finally, I've grown a lot in a short period of time by taking on a lot of responsibilities, but I also experienced a lot of stress. While it's still manageable, I think in the long run it wouldn't be appropriate. That's why starting next year, I want to aim at creating sustainable infrastructures around my work so that I can support myself and other people better as a product manager. 
 
-It has been a great year. Until we meet again!
+It's been a great year, folks. Until we meet again!
 
