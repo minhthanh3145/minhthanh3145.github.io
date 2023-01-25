@@ -4,9 +4,12 @@ date: "2023-01-24"
 tags:
   - "product-management"
 layout: post
+cover: "assets/images1/2022-reflection-blog-post-cover.jpg"
 subclass: post
 navigation: "true"
 ---
+
+Hi there, thank you for being here, at this point in time and space. I spent the past few days thinking about what I've learned over the past year. In 2021, I stretched my thinking on thorny topics such as product strategy and enabling context. In 2022, I've been able to to take some simple ideas very seriously.
 
 ## Make it easy to do simple things
 
