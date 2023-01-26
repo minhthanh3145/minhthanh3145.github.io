@@ -29,7 +29,7 @@ Why didn't I do that sooner? Prior to that point, we had to focus on delivering 
 
 But nevertheless, it was executing a simple idea amidst of complexity that ultimately worked out well. Doing simple things does not guarantee success, but doing enough simple things would compound and increase your likelihood of success.
 
-What made me more willing to act on the bet was that the ability to dynamically adjust the onboarding flow on the fly (using a tool). It made experimenting much cheaper. I was initially worried that the use of such tool would steer us away from optimizing the UI/UX itself. But it helped demonstrate quickly that tapping into what we thought were leverage points was really working.
+What made me more willing to act on the bet was that the ability to dynamically adjust the onboarding flow on the fly (using a tool). It made experimenting much cheaper. I was initially worried that the use of such tool would steer us away from optimizing the UI/UX itself. But it helped demonstrate quickly that solving the problem we identified created impact.
 
 To summarize, I'd like to borrow a principle from the manufacturing world: 
 
